@@ -1,7 +1,7 @@
 {
   "name": "webapp",
-  "version": "1.0.5",
-  "description": "Testing Jenkins - WebApp v1.0.5",
+  "version": "1.0.6",
+  "description": "Testing Jenkins - WebApp v1.0.6",
   "main": "index.js",
   "directories": {
     "test": "test"
